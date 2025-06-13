@@ -17,6 +17,5 @@ let body=document.body
     body.style.backgroundColor= "blueviolet"
  }
 
-
 }
 //CLASIFICADOR DE NOTAS ççÇÇÇÇººººªªªªºº          |||||()
