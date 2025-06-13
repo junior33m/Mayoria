@@ -5,8 +5,6 @@ let parrafo= document.getElementById("parrafo")
 let div=document.getElementById("contenedor")
 let body=document.body
 
-
-
  if(edad <18 ) {
     parrafo.innerText= "dado que tienes" + edad + " años, eres menor de edad"
     div.style.boxShadow= "20px -40px 30px blue";
